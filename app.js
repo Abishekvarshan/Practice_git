@@ -1,1 +1,1 @@
-const name = "Main Branch";
+const name = "Feature Branch";
