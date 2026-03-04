@@ -1,1 +1,1 @@
-const data = "data"
+const data = "main"; 
