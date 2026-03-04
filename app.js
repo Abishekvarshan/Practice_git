@@ -1,2 +1,3 @@
-const data = "main branch edit 3"; 
+// app.js
+const data = "feature branch edit 2";  // same line as main but different value
 const text = "test";
