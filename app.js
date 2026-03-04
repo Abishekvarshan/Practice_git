@@ -1,2 +1,2 @@
-const data = "main branch edit 3"; 
+const data = "main";  
 const text = "test";
